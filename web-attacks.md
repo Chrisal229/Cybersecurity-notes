@@ -47,3 +47,9 @@ Authentication:
 
 Authorization:
 - What you can access
+
+Cookies:
+-Cookies store small data on the client and are automatically sent with every HTTP request to maintain state
+
+Session:
+-Data stored on the server, not in browser
