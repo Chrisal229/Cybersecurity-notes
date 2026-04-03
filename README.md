@@ -23,5 +23,5 @@ This repo reflects my daily learning journey and hands-on understanding.
 - (Updating daily...)
 
 ## 📌 Author
-- Name: [Your Name]
+- Name: CHRISAL
 - Role: Cybersecurity Enthusiast
