@@ -20,6 +20,13 @@ This repo reflects my daily learning journey and hands-on understanding.
 
 ## 🚀 Progress
 - Day 1: Web Security Basics + OWASP
+  
+- ## 📅 Day 2 Progress
+- OSI Model
+- Ports & Protocols
+- Logs & Alerts
+- SIEM Basics
+  
 - (Updating daily...)
 
 ## 📌 Author
